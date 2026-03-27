@@ -1,0 +1,17 @@
+mkdir src
+mkdir src/config
+mkdir src/models
+mkdir src/routes
+mkdir src/controllers
+mkdir src/middleware
+ 
+ni src\index.js, src\app.js, src\config\db.js, .env, .gitignore
+
+#Linux
+
+touch src/index.js
+touch src/app.js
+touch src/config/db.js
+touch .env
+touch .gitignore
+
